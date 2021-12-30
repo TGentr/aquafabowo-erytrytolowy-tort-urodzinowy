@@ -103,7 +103,7 @@ h1 {
     border-bottom-right-radius: 40px;
 }
 .candle {
-    background-color: #7b020b;
+    background-color: #a446c3;
     width: 16px;
     height: 50px;
     border-radius: 8px / 4px;
@@ -120,7 +120,7 @@ h1 {
     width: 16px;
     height: 8px;
     border-radius: 50%;
-    background-color: #ad030f;
+    background-color: #8360c1;
 }
 .flame {
     position: absolute;
